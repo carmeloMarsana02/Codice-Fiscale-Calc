@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559398360 source:c:\users\davide marsana\desktop\codicefiscale\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<fstream>
+
+1559397242 source:c:\users\39350\desktop\nuova cartella\codicefiscale\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<fstream>
+
